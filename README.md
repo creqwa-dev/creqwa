@@ -5,7 +5,7 @@
 
 Hessen, Germany
 
-I would like to become a Full Stack Developer I will work hard and achieve my dream!
+I would like to become a Full Stack Developer one day. I will work hard to achieve my dream!
 
 
 ### Languages & Tools
