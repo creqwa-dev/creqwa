@@ -1,9 +1,9 @@
 <div align=center>
 
-![alt text](https://creqwa.isfucking.pro/PKe6wu.jpg)
-### Hey, I'm Laurenzo 👋
+![alt text](https://host.creqwa.dev/files/creqwa/prf.png)
+### Hey, I'm Creqwa 👋
 
-Hamburg, Germany
+Hessen, Germany
 I would like to become a Full Stack Developer I will work hard and achieve my dream!
 
 
