@@ -3,7 +3,8 @@
 ![alt text](https://host.creqwa.dev/files/creqwa/prf.png)
 ### Hey, I'm Creqwa 👋
 
-Hessen, Germany \n
+Hessen, Germany
+
 I would like to become a Full Stack Developer I will work hard and achieve my dream!
 
 
