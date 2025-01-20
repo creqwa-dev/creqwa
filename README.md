@@ -1,7 +1,7 @@
 <div align=center>
 
 ![alt text](https://host.creqwa.dev/files/creqwa/prf.png)
-### Hey, I'm Creqwa 👋
+### Hey, I'm Mohammad 👋
 
 Hessen, Germany
 
